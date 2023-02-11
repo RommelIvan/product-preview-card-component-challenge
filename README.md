@@ -63,5 +63,5 @@ The ability to flip between mobile and desktop screens or any other screen sizes
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [RommelIvan](https://github.com/RommelIvan)
+- Frontend Mentor - [@RommelIvan](https://www.frontendmentor.io/profile/RommelIvan)
